@@ -86,4 +86,4 @@ Contributions are welcome! Feel free to open issues or submit pull requests to i
 
 ---
 
-### Created by [Shyam Tripathi (2313058)](https://github.com/2313058)
+### Created by [Shyam Tripathi](https://github.com/ShyamTripathi1)
